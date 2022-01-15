@@ -260,6 +260,10 @@ footer{
 body{
     width: 1150px;
 }
+
+.online-shop{
+ margin: 0;
+}
 .all-produc{
     grid-template-columns: repeat(2, 1fr);
 }
