@@ -237,6 +237,9 @@ footer{
 .section-title{
     margin-top: 20px;
 }
+.produc-bannar img{
+    width: 100%;
+}
 .top-produc{
     width: 100%;
     margin: 0px;
